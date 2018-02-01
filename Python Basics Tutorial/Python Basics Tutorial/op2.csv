@@ -1,0 +1,4 @@
+error,method,reqid,result,status
+[],image/recognize,709980431671578624,"[{'objects': [{'box': [400, 371, 819, 875], 'tags': [{'tag': 'top', 'score': 0.993015885353088}]}, {'box': [306, 885, 880, 1499], 'tags': [{'tag': 'bottom', 'score': 0.772221744060516}]}], 'tag_group': 'product_detection'}]",OK
+[],image/recognize,709980434926358528,"[{'objects': [{'box': [123, 83, 251, 225], 'tags': [{'tag': 'top', 'score': 0.9871655702590941}]}, {'box': [116, 233, 270, 362], 'tags': [{'tag': 'skirt', 'score': 0.676225006580352}]}, {'box': [111, 108, 262, 326], 'tags': [{'tag': 'other', 'score': 0.23642201721668202}]}], 'tag_group': 'product_detection'}]",OK
+[],image/recognize,709980437405196288,"[{'objects': [{'box': [164, 54, 269, 179], 'tags': [{'tag': 'top', 'score': 0.9879745244979851}]}, {'box': [142, 168, 285, 369], 'tags': [{'tag': 'bottom', 'score': 0.7826405763626091}]}], 'tag_group': 'product_detection'}]",OK
